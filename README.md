@@ -1,2 +1,5 @@
-# reading-notes
-Code 201 reading notes
+# CODE 201 Reading Notes
+<hr>
+
+These are my reading notes for code fellows.
+
