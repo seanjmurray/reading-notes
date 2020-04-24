@@ -22,7 +22,4 @@ These are my reading notes for code fellows. I will be updating this as the cour
 - [ ] Reading 14
 - [ ] Reading 15
 
-## Notes
-
-### Reading 1
 
