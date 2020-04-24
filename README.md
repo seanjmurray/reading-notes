@@ -6,7 +6,7 @@ These are my reading notes for code fellows. I will be updating this as the cour
 
 ## Contents
 
-- [ ] [Reading 1](#reading-1)
+- [ ] [Reading 1](class-01.md)
 - [ ] Reading 2
 - [ ] Reading 3
 - [ ] Reading 4
