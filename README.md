@@ -8,7 +8,7 @@ These are my reading notes for code fellows. I will be updating this as the cour
 
 ### Week 1
 - [x] [Reading 1](class-01.md)
-- [ ] [Reading 2](class-02.md)
+- [x] [Reading 2](class-02.md)
 - [ ] [Reading 3](class-03.md)
 - [ ] [Reading 4](class-04.md)
 - [ ] [Reading 5](class-05.md)
