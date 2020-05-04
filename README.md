@@ -13,7 +13,7 @@ These are my reading notes for code fellows. I will be updating this as the cour
 - [x] [Reading 4](class-04.md)
 - [x] [Reading 5](class-05.md)
 ### Week 2
-- [ ] [Reading 6](class-06.md)
+- [x] [Reading 6](class-06.md)
 - [ ] [Reading 7](class-07.md)
 - [ ] [Reading 8](class-08.md)
 - [ ] [Reading 9](class-09.md)
