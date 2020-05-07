@@ -15,7 +15,7 @@ These are my reading notes for code fellows. I will be updating this as the cour
 ### Week 2
 - [x] [Reading 6](class-06.md)
 - [x] [Reading 7](class-07.md)
-- [ ] [Reading 8](class-08.md)
+- [x] [Reading 8](class-08.md)
 - [ ] [Reading 9](class-09.md)
 - [ ] [Reading 1](class-10.md)
 ### Week 3
