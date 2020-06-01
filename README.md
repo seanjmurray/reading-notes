@@ -6,6 +6,7 @@ These are my reading notes for code fellows. I will be updating this as the cour
 
 ## Contents
 
+## Code 201 - Foundations of Software Development
 ### Week 1
 - [x] [Reading 1](class-01.md)
 - [x] [Reading 2](class-02.md)
@@ -24,5 +25,26 @@ These are my reading notes for code fellows. I will be updating this as the cour
 - [ ] [Reading 1](class-13.md)
 - [ ] [Reading 1](class-14.md)
 - [ ] [Reading 1](class-15.md)
+
+## Code 301 - Intermediate Software Development
+
+### Week 1
+- [ ] [Reading 1]()
+- [ ] [Reading 2]()
+- [ ] [Reading 3]()
+- [ ] [Reading 4]()
+- [ ] [Reading 5]()
+### Week 2
+- [ ] [Reading 6]()
+- [ ] [Reading 7]()
+- [ ] [Reading 8]()
+- [ ] [Reading 9]()
+- [ ] [Reading 10]()
+### Week 3
+- [ ] [Reading 11]()
+- [ ] [Reading 1]()
+- [ ] [Reading 1]()
+- [ ] [Reading 1]()
+- [ ] [Reading 1]()
 
 
